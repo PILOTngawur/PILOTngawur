@@ -1,16 +1,13 @@
-## Hi there 👋
+# Halo semua! 
 
-<!--
-**PILOTngawur/PILOTngawur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Erlangga Rizky Perdana Putra**.<br>
 
-Here are some ideas to get you started:
+Saya adalah seorang pelajar dari smk fatahillah cileungsi, dan saya mengambil jurusan RPL. Saya diskolah aktif dalam kegiatan berorganisasi seperti,
+paskibra, pramuka, japanneseclub dan osis.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+saya juga senang dibidang teknologi, saya juga memiliki julukan pilot ngawur karena saya menjadi pilot drone disekolah, dan itu salah satu hobi saya yatu bermian drone,
+dan ya saya uga suka menggambar. <br>
+
+Saya sekarang menjabat menjadi Bendahara di organisasi osis.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/pilotngawur24/) ku ya.
