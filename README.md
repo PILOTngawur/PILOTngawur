@@ -11,11 +11,4 @@ Saya adalah pelajar pemrograman yang memiliki ide-ide kreatif dan mampu memahami
 :pencil2: **Menggambar**<br>
 :mag_right: **Mencari Pengalaman**<br>
 
-**PENGALAMAN**<br>
-**- Paskibra**<br>
-**- Pramuka**<br>
-**- Osis**<br>
-**- Japannese Club**<br>
-**- Robotic**<br>
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Instagram](https://www.instagram.com/pilotngawur24/) ku ya.
